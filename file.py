@@ -1,6 +1,6 @@
 # printina stringa i terminala
 print("labas")
-
+# is github
 
 
 
